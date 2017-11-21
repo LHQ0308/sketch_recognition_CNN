@@ -14,7 +14,7 @@ The dataset, which is about 500MB, can be obtained [from the 'How Do Human Sketc
 
 - project_report.pdf: Project Report
 - proposal.pdf: Project Proposal
-- notebook.html: 
+- notebook.html: Notebook Printout
 - notebook.ipynb: Developmental Code
 
 To start, please run the jupyter notebook
